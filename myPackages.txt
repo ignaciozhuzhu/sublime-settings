@@ -1,0 +1,9 @@
+Babel
+Emmet Css Snippets
+ESLint
+HTML-CSS-JS Prettify
+jsfmt
+PyV8
+SublimeLinter
+SublimeLinter-contrib-eslint
+Tag

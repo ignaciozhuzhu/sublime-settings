@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ESLint",
+		"HTML-CSS-JS Prettify",
+		"JSCS-Formatter",
+		"jsfmt",
+		"JsFormat",
+		"JSML Formatter",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jsxhint",
+		"Tagify",
+		"View In Browser"
+	]
+}
